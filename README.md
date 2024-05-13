@@ -1,4 +1,4 @@
-# Apple iphone 3d landing page in ReactJS
+# Apple iPhone 3d landing page in ReactJS, ThreeJs & GSAP
 
 ~ Prince Chhirolya - [LinkedIn](https://www.likedin.com/in/princechhirolya/)
 
